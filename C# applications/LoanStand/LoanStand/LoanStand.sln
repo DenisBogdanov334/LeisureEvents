@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanStand", "LoanStand\LoanStand.csproj", "{4B0F3DB9-1C92-4160-82C0-CDCFB92950B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B0F3DB9-1C92-4160-82C0-CDCFB92950B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B0F3DB9-1C92-4160-82C0-CDCFB92950B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B0F3DB9-1C92-4160-82C0-CDCFB92950B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B0F3DB9-1C92-4160-82C0-CDCFB92950B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D127CDAD-7815-4625-9B24-B2C316F850F2}
+	EndGlobalSection
+EndGlobal

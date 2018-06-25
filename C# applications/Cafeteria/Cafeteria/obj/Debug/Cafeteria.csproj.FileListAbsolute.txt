@@ -1,0 +1,15 @@
+F:\PROP\C# applications\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe.config
+F:\PROP\C# applications\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe
+F:\PROP\C# applications\Cafeteria\Cafeteria\bin\Debug\Cafeteria.pdb
+F:\PROP\C# applications\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csprojResolveAssemblyReference.cache
+F:\PROP\C# applications\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Cafeteria.resources
+F:\PROP\C# applications\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Properties.Resources.resources
+F:\PROP\C# applications\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.GenerateResource.Cache
+F:\PROP\C# applications\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CoreCompileInputs.cache
+F:\PROP\C# applications\Cafeteria\Cafeteria\obj\Debug\Cafeteria.exe
+F:\PROP\C# applications\Cafeteria\Cafeteria\obj\Debug\Cafeteria.pdb
+F:\PROP\C# applications\Cafeteria\Cafeteria\bin\Debug\MySql.Data.dll
+F:\PROP\C# applications\Cafeteria\Cafeteria\bin\Debug\Phidget22.NET.dll
+F:\PROP\C# applications\Cafeteria\Cafeteria\bin\Debug\MySql.Data.xml
+F:\PROP\C# applications\Cafeteria\Cafeteria\bin\Debug\Phidget22.NET.pdb
+F:\PROP\C# applications\Cafeteria\Cafeteria\bin\Debug\Phidget22.NET.xml

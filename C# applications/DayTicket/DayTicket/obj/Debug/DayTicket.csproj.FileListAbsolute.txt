@@ -1,0 +1,16 @@
+F:\PROP\C# applications\DayTicket\DayTicket\bin\Debug\DayTicket.exe.config
+F:\PROP\C# applications\DayTicket\DayTicket\bin\Debug\DayTicket.exe
+F:\PROP\C# applications\DayTicket\DayTicket\bin\Debug\DayTicket.pdb
+F:\PROP\C# applications\DayTicket\DayTicket\bin\Debug\MySql.Data.dll
+F:\PROP\C# applications\DayTicket\DayTicket\bin\Debug\Phidget22.NET.dll
+F:\PROP\C# applications\DayTicket\DayTicket\bin\Debug\MySql.Data.xml
+F:\PROP\C# applications\DayTicket\DayTicket\bin\Debug\Phidget22.NET.pdb
+F:\PROP\C# applications\DayTicket\DayTicket\bin\Debug\Phidget22.NET.xml
+F:\PROP\C# applications\DayTicket\DayTicket\obj\Debug\DayTicket.csprojResolveAssemblyReference.cache
+F:\PROP\C# applications\DayTicket\DayTicket\obj\Debug\DayTicket.Form1.resources
+F:\PROP\C# applications\DayTicket\DayTicket\obj\Debug\DayTicket.Properties.Resources.resources
+F:\PROP\C# applications\DayTicket\DayTicket\obj\Debug\DayTicket.csproj.GenerateResource.Cache
+F:\PROP\C# applications\DayTicket\DayTicket\obj\Debug\DayTicket.csproj.CoreCompileInputs.cache
+F:\PROP\C# applications\DayTicket\DayTicket\obj\Debug\DayTicket.exe
+F:\PROP\C# applications\DayTicket\DayTicket\obj\Debug\DayTicket.pdb
+F:\PROP\C# applications\DayTicket\DayTicket\obj\Debug\DayTicket.Form2.resources

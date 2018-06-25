@@ -1,0 +1,15 @@
+F:\PROP\C# applications\AssignRfid\AssignRfid\bin\Debug\AssignRfid.exe.config
+F:\PROP\C# applications\AssignRfid\AssignRfid\bin\Debug\AssignRfid.exe
+F:\PROP\C# applications\AssignRfid\AssignRfid\bin\Debug\AssignRfid.pdb
+F:\PROP\C# applications\AssignRfid\AssignRfid\bin\Debug\MySql.Data.dll
+F:\PROP\C# applications\AssignRfid\AssignRfid\bin\Debug\Phidget22.NET.dll
+F:\PROP\C# applications\AssignRfid\AssignRfid\bin\Debug\MySql.Data.xml
+F:\PROP\C# applications\AssignRfid\AssignRfid\bin\Debug\Phidget22.NET.pdb
+F:\PROP\C# applications\AssignRfid\AssignRfid\bin\Debug\Phidget22.NET.xml
+F:\PROP\C# applications\AssignRfid\AssignRfid\obj\Debug\AssignRfid.csprojResolveAssemblyReference.cache
+F:\PROP\C# applications\AssignRfid\AssignRfid\obj\Debug\AssignRfid.Form1.resources
+F:\PROP\C# applications\AssignRfid\AssignRfid\obj\Debug\AssignRfid.Properties.Resources.resources
+F:\PROP\C# applications\AssignRfid\AssignRfid\obj\Debug\AssignRfid.csproj.GenerateResource.Cache
+F:\PROP\C# applications\AssignRfid\AssignRfid\obj\Debug\AssignRfid.csproj.CoreCompileInputs.cache
+F:\PROP\C# applications\AssignRfid\AssignRfid\obj\Debug\AssignRfid.exe
+F:\PROP\C# applications\AssignRfid\AssignRfid\obj\Debug\AssignRfid.pdb

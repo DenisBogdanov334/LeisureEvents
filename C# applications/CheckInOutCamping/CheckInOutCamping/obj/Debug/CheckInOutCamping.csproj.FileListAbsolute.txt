@@ -1,0 +1,15 @@
+F:\PROP\C# applications\CheckInOutCamping\CheckInOutCamping\bin\Debug\CheckInOutCamping.exe.config
+F:\PROP\C# applications\CheckInOutCamping\CheckInOutCamping\bin\Debug\CheckInOutCamping.exe
+F:\PROP\C# applications\CheckInOutCamping\CheckInOutCamping\bin\Debug\CheckInOutCamping.pdb
+F:\PROP\C# applications\CheckInOutCamping\CheckInOutCamping\bin\Debug\MySql.Data.dll
+F:\PROP\C# applications\CheckInOutCamping\CheckInOutCamping\bin\Debug\Phidget22.NET.dll
+F:\PROP\C# applications\CheckInOutCamping\CheckInOutCamping\bin\Debug\MySql.Data.xml
+F:\PROP\C# applications\CheckInOutCamping\CheckInOutCamping\bin\Debug\Phidget22.NET.pdb
+F:\PROP\C# applications\CheckInOutCamping\CheckInOutCamping\bin\Debug\Phidget22.NET.xml
+F:\PROP\C# applications\CheckInOutCamping\CheckInOutCamping\obj\Debug\CheckInOutCamping.csprojResolveAssemblyReference.cache
+F:\PROP\C# applications\CheckInOutCamping\CheckInOutCamping\obj\Debug\CheckInOutCamping.Form1.resources
+F:\PROP\C# applications\CheckInOutCamping\CheckInOutCamping\obj\Debug\CheckInOutCamping.Properties.Resources.resources
+F:\PROP\C# applications\CheckInOutCamping\CheckInOutCamping\obj\Debug\CheckInOutCamping.csproj.GenerateResource.Cache
+F:\PROP\C# applications\CheckInOutCamping\CheckInOutCamping\obj\Debug\CheckInOutCamping.csproj.CoreCompileInputs.cache
+F:\PROP\C# applications\CheckInOutCamping\CheckInOutCamping\obj\Debug\CheckInOutCamping.exe
+F:\PROP\C# applications\CheckInOutCamping\CheckInOutCamping\obj\Debug\CheckInOutCamping.pdb

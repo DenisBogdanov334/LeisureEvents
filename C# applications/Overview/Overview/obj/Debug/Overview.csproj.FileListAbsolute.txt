@@ -1,0 +1,12 @@
+F:\PROP\C# applications\Overview\Overview\bin\Debug\Overview.exe.config
+F:\PROP\C# applications\Overview\Overview\bin\Debug\Overview.exe
+F:\PROP\C# applications\Overview\Overview\bin\Debug\Overview.pdb
+F:\PROP\C# applications\Overview\Overview\bin\Debug\MySql.Data.dll
+F:\PROP\C# applications\Overview\Overview\bin\Debug\MySql.Data.xml
+F:\PROP\C# applications\Overview\Overview\obj\Debug\Overview.csprojResolveAssemblyReference.cache
+F:\PROP\C# applications\Overview\Overview\obj\Debug\Overview.Form1.resources
+F:\PROP\C# applications\Overview\Overview\obj\Debug\Overview.Properties.Resources.resources
+F:\PROP\C# applications\Overview\Overview\obj\Debug\Overview.csproj.GenerateResource.Cache
+F:\PROP\C# applications\Overview\Overview\obj\Debug\Overview.csproj.CoreCompileInputs.cache
+F:\PROP\C# applications\Overview\Overview\obj\Debug\Overview.exe
+F:\PROP\C# applications\Overview\Overview\obj\Debug\Overview.pdb

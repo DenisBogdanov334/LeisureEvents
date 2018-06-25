@@ -1,0 +1,15 @@
+F:\PROP\C# applications\CheckInOutEvent\CheckInOutEvent\bin\Debug\CheckInOutEvent.exe.config
+F:\PROP\C# applications\CheckInOutEvent\CheckInOutEvent\bin\Debug\CheckInOutEvent.exe
+F:\PROP\C# applications\CheckInOutEvent\CheckInOutEvent\bin\Debug\CheckInOutEvent.pdb
+F:\PROP\C# applications\CheckInOutEvent\CheckInOutEvent\obj\Debug\CheckInOutEvent.csprojResolveAssemblyReference.cache
+F:\PROP\C# applications\CheckInOutEvent\CheckInOutEvent\obj\Debug\CheckInOutEvent.Properties.Resources.resources
+F:\PROP\C# applications\CheckInOutEvent\CheckInOutEvent\obj\Debug\CheckInOutEvent.csproj.GenerateResource.Cache
+F:\PROP\C# applications\CheckInOutEvent\CheckInOutEvent\obj\Debug\CheckInOutEvent.csproj.CoreCompileInputs.cache
+F:\PROP\C# applications\CheckInOutEvent\CheckInOutEvent\obj\Debug\CheckInOutEvent.exe
+F:\PROP\C# applications\CheckInOutEvent\CheckInOutEvent\obj\Debug\CheckInOutEvent.pdb
+F:\PROP\C# applications\CheckInOutEvent\CheckInOutEvent\bin\Debug\Phidget22.NET.dll
+F:\PROP\C# applications\CheckInOutEvent\CheckInOutEvent\bin\Debug\Phidget22.NET.pdb
+F:\PROP\C# applications\CheckInOutEvent\CheckInOutEvent\bin\Debug\Phidget22.NET.xml
+F:\PROP\C# applications\CheckInOutEvent\CheckInOutEvent\bin\Debug\MySql.Data.dll
+F:\PROP\C# applications\CheckInOutEvent\CheckInOutEvent\bin\Debug\MySql.Data.xml
+F:\PROP\C# applications\CheckInOutEvent\CheckInOutEvent\obj\Debug\CheckInOutEvent.CheckInOut.resources

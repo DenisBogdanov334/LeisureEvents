@@ -1,0 +1,56 @@
+c:\users\me\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\me\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\me\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\me\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\me\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\me\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\me\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\me\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\me\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\me\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Phidget22.NET.dll
+C:\Users\me\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Phidget22.NET.pdb
+C:\Users\me\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Phidget22.NET.xml
+C:\Users\me\Documents\Visual Studio 2015\Projects\balance app\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\me\Documents\Visual Studio 2015\Projects\balance app\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\me\Documents\Visual Studio 2015\Projects\balance app\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\me\Documents\Visual Studio 2015\Projects\balance app\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\me\Documents\Visual Studio 2015\Projects\balance app\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\me\Documents\Visual Studio 2015\Projects\balance app\WindowsFormsApplication2\bin\Debug\MySql.Data.dll
+C:\Users\me\Documents\Visual Studio 2015\Projects\balance app\WindowsFormsApplication2\bin\Debug\Phidget22.NET.dll
+C:\Users\me\Documents\Visual Studio 2015\Projects\balance app\WindowsFormsApplication2\bin\Debug\MySql.Data.xml
+C:\Users\me\Documents\Visual Studio 2015\Projects\balance app\WindowsFormsApplication2\bin\Debug\Phidget22.NET.pdb
+C:\Users\me\Documents\Visual Studio 2015\Projects\balance app\WindowsFormsApplication2\bin\Debug\Phidget22.NET.xml
+C:\Users\me\Documents\Visual Studio 2015\Projects\balance app\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\me\Documents\Visual Studio 2015\Projects\balance app\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\me\Documents\Visual Studio 2015\Projects\balance app\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\me\Documents\Visual Studio 2015\Projects\balance app\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\HDD\New folder\Projects\ProP\balance app\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\HDD\New folder\Projects\ProP\balance app\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\HDD\New folder\Projects\ProP\balance app\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\HDD\New folder\Projects\ProP\balance app\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\HDD\New folder\Projects\ProP\balance app\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\HDD\New folder\Projects\ProP\balance app\WindowsFormsApplication2\bin\Debug\MySql.Data.dll
+D:\HDD\New folder\Projects\ProP\balance app\WindowsFormsApplication2\bin\Debug\Phidget22.NET.dll
+D:\HDD\New folder\Projects\ProP\balance app\WindowsFormsApplication2\bin\Debug\MySql.Data.xml
+D:\HDD\New folder\Projects\ProP\balance app\WindowsFormsApplication2\bin\Debug\Phidget22.NET.pdb
+D:\HDD\New folder\Projects\ProP\balance app\WindowsFormsApplication2\bin\Debug\Phidget22.NET.xml
+D:\HDD\New folder\Projects\ProP\balance app\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\HDD\New folder\Projects\ProP\balance app\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\HDD\New folder\Projects\ProP\balance app\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\HDD\New folder\Projects\ProP\balance app\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\andre\Desktop\New folder (2)\app\balance app\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\andre\Desktop\New folder (2)\app\balance app\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\andre\Desktop\New folder (2)\app\balance app\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\My shit\Block 2\1. ProP\balance app\balance app\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\My shit\Block 2\1. ProP\balance app\balance app\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\My shit\Block 2\1. ProP\balance app\balance app\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\My shit\Block 2\1. ProP\balance app\balance app\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\My shit\Block 2\1. ProP\balance app\balance app\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\My shit\Block 2\1. ProP\balance app\balance app\WindowsFormsApplication2\bin\Debug\Phidget22.NET.dll
+C:\My shit\Block 2\1. ProP\balance app\balance app\WindowsFormsApplication2\bin\Debug\MySql.Data.xml
+C:\My shit\Block 2\1. ProP\balance app\balance app\WindowsFormsApplication2\bin\Debug\Phidget22.NET.pdb
+C:\My shit\Block 2\1. ProP\balance app\balance app\WindowsFormsApplication2\bin\Debug\Phidget22.NET.xml
+C:\My shit\Block 2\1. ProP\balance app\balance app\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\My shit\Block 2\1. ProP\balance app\balance app\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\My shit\Block 2\1. ProP\balance app\balance app\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\My shit\Block 2\1. ProP\balance app\balance app\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
